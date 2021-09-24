@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumyaJha813
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Spring MVC and Android development
+- 👀 I’m interested in devOps,web and app development
+- 🌱 I’m currently learning ML and AI
 - 📫 How to reach me -soumya.7c@gmail.com
 
 <!---
