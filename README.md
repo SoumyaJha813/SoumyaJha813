@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumyaJha813
-- 👀 I’m interested in devOps,web and app development
-- 🌱 I’m currently learning ML and AI
+- 👀 I’m interested in web and app development.
+- 🌱 I’m currently learning ML.
 - 📫 How to reach me -soumya.7c@gmail.com
 
 <!---
