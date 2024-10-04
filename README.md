@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumyaJha813
-- 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning ML.
+- 👀 I’m interested in Python and Automation.
+- 🌱 I’m currently learning Cloud Tech and DevOps.
 - 📫 How to reach me -soumya.7c@gmail.com
 
 <!---
